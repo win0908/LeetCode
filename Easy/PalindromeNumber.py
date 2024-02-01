@@ -24,9 +24,9 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 '''
 
+
 # Input
 x = 121
-
 
 # First Time
 x = str(x)
@@ -36,20 +36,12 @@ for i in range(len(x)):
 
 if txt == x: print(True)
 else: print(False)
-'''
-Runtime: 43ms
-Memory:  13.19MB
-'''
-
 
 
 # using String
 s = str(x)
 print( s == s[::-1] )
-'''
-Runtime: 19ms
-Memory:  13.22MB
-'''
+
 
 
 
