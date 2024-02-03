@@ -71,10 +71,6 @@ while i >= 0:
 
 print(output) 
 
-'''
-Runtime: 27ms
-Memory:  13.46MB
-'''
 
 
 
