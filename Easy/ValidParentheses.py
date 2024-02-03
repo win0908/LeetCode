@@ -52,10 +52,7 @@ for P in s:
 
 print(stack == [])
 
-'''
-Runtime: 14ms
-Memory:  13.44MB
-'''
+
 
 
 
